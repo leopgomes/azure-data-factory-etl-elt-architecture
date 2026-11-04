@@ -128,10 +128,6 @@ Este estudo de caso evidencia competências em **engenharia de dados**, **leitur
     └── fluxo-adf.svg
 ```
 
-## Segurança e confidencialidade
-
-Este portfólio foi pensado para publicar **somente a documentação e os diagramas**. **Não publique o ZIP ARM original sem revisão e autorização**, pois exports podem conter nomes internos de serviços, servidores, bancos, caminhos, endpoints, identificadores e parâmetros operacionais. Revise também os diagramas e este README para remover qualquer nomenclatura confidencial antes de disponibilizá-los publicamente.
-
 ---
 
 *Documentação elaborada a partir da inspeção estática de um export ARM. Não representa medição de performance, validação de execução em produção ou auditoria de segurança do ambiente.*
