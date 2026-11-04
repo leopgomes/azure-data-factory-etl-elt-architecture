@@ -5,7 +5,7 @@
 ![Synapse](https://img.shields.io/badge/Azure-Synapse%20Analytics-0078D4)
 ![IaC](https://img.shields.io/badge/IaC-ARM%20Templates-555)
 
-> **Estudo de caso técnico de uma arquitetura de integração e processamento de dados**, documentada a partir da análise de um export ARM do Azure Data Factory. Este repositório apresenta a orquestração, suas dependências e os padrões de processamento observados, sem expor configurações sensíveis do ambiente.
+> **Caso técnico de uma arquitetura de integração e processamento de dados**, documentada a partir da análise de um export ARM do Azure Data Factory. Este repositório apresenta a orquestração, suas dependências e os padrões de processamento observados, sem expor configurações sensíveis do ambiente.
 
 ## Visão geral
 
